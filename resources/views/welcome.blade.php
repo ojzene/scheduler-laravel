@@ -79,15 +79,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    II SCHEDULER
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="/appointments/create">Make Appointment</a>
+                    <a href="https://github.com/ojzene/scheduler-laravel">Source Code</a>
+                    <a href="https://linkedin.com/in/tolulope-owolabi-45164a40/">Linkedin</a>
+                    <a href="https://twitter.com/TolulopeOwolabi">Twitter</a>
                 </div>
             </div>
         </div>

@@ -19,6 +19,7 @@
 <div class="navbar navbar-primary bg-primary">
     <div class="container d-flex justify-content-between">
         <a href="#" class="navbar-brand" style="color: #fff !important;">II Appointment Scheduler</a>
+        <a style="text-decoration: none !important; color: #fff !important;" href="/appointments/create" class="pull-right">Make Appointment</a>
         {{--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">--}}
             {{--<span class="navbar-toggler-icon"></span>--}}
         {{--</button>--}}
